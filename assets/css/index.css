@@ -94,7 +94,7 @@ body {
 }
 
 .avatar {
-    background-image: url(images/avatar.png);
+    background-image: url(assets/images/avatar.png);
     background-size: contain;
     width: 45px;
     height: 45px;
