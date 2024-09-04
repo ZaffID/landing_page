@@ -2,7 +2,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event){
     event.preventDefault();
 
     const correctUsername = 'dimas';
-    const correctPassword = 'dimas';
+    const correctPassword = '123456789';
 
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;

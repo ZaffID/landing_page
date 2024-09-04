@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 212, 147);
+    text-align: center;
+}
+button{
+    border-radius: 50px;
+    width: 5%;
+}
+input#username{
+    border-radius: 50px;
+    margin: 10px;
+    height: 30px;
+    width: 200px;
+}
+input#password{
+    border-radius: 50px;
+    margin: 10px;
+    height: 30px;
+    width: 200px;
+}
+h2{
+    padding-top: 200px;
+}
